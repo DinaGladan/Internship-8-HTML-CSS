@@ -5,6 +5,9 @@ body{
     background-color: black;
     color: white;
 }
+div{
+    padding: 10px;
+}
 ul{
     list-style-position: inside;
     display: inline-block;
@@ -23,6 +26,11 @@ h2{
 
 .second-container{
     border: 10px, solid, turquoise;
+    color: black;
+    background-color: bisque;
+}
+.third-container{
+    border: 10px, solid, orange;
     color: black;
     background-color: bisque;
 }
