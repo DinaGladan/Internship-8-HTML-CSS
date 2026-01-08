@@ -1,1 +1,2 @@
-# Internship-8-HTML-CSS
+Manja HTML stranica s minimalnim CSS-om
+
