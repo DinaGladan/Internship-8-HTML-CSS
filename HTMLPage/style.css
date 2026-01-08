@@ -1,0 +1,12 @@
+.center{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+}
+ul{
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+}
